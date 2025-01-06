@@ -1,4 +1,4 @@
-# Winning Trends Analytics
+# Success Through Sports Analytics
 
 An in-depth analysis of NFL team performance over 21 seasons, exploring the relationships between total yards, turnovers, and winning trends. This project applies data cleaning, statistical analysis, and visualization techniques to uncover patterns that contribute to team success.
 
