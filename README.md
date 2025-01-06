@@ -54,3 +54,30 @@ This project analyzes data from 672 NFL teams spanning 21 seasons to uncover ins
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/your_repository_name.git
+
+2. Navigate to the project folder
+   cd your_repository_name
+
+3. Install the required Python packages
+  pip install -r requirements.txt
+
+## Usage
+1. Run the Python scripts to load, clean, and analyze the dataset.
+2. View the generated visualizations in the visualizations/ folder or within the Jupyter Notebook.
+
+## Technologies Used
+
+**Python Libraries**:
+   Pandas: Data manipulation and cleaning.
+   NumPy: Numerical computations.
+   Matplotlib: Data visualization.
+   
+**Tools**:
+Jupyter Notebook: Interactive coding environment.
+
+## Conclusions
+
+Teams that generate more total yards per game generally achieve more wins.
+Reducing turnovers significantly boosts a team's win percentage.
+While correlations exist, game-specific factors like defense and special teams can influence outcomes unpredictably.
+This analysis underscores the complexity of predicting game outcomes, highlighting the importance of holistic team performance.
