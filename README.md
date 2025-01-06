@@ -85,5 +85,3 @@ This analysis underscores the complexity of predicting game outcomes, highlighti
 ## Acknowledgments
 
 Data Source: [NFL Team Data 2003-2023](https://github.com/OpenDataO/NFL-Team-Data-2003-2023)
-Special thanks to CSIT 256 – Introduction to Data Science for providing the framework and guidance for this project.
-Gratitude to Zane Dalco and Vincent Muoio for their collaboration and contributions.
