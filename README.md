@@ -81,3 +81,9 @@ Teams that generate more total yards per game generally achieve more wins.
 Reducing turnovers significantly boosts a team's win percentage.
 While correlations exist, game-specific factors like defense and special teams can influence outcomes unpredictably.
 This analysis underscores the complexity of predicting game outcomes, highlighting the importance of holistic team performance.
+
+## Acknowledgments
+
+Data Source: [NFL Team Data 2003-2023](https://github.com/OpenDataO/NFL-Team-Data-2003-2023)
+Special thanks to CSIT 256 – Introduction to Data Science for providing the framework and guidance for this project.
+Gratitude to Zane Dalco and Vincent Muoio for their collaboration and contributions.
